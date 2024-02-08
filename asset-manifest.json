@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HomeroBeltranUTRGV.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/HomeroBeltranUTRGV.github.io/static/js/main.874b6c97.js",
+    "main.js": "/HomeroBeltranUTRGV.github.io/static/js/main.98b20eaa.js",
     "static/js/592.7f72a991.chunk.js": "/HomeroBeltranUTRGV.github.io/static/js/592.7f72a991.chunk.js",
     "static/media/logo.svg": "/HomeroBeltranUTRGV.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HomeroBeltranUTRGV.github.io/index.html",
     "main.f855e6bc.css.map": "/HomeroBeltranUTRGV.github.io/static/css/main.f855e6bc.css.map",
-    "main.874b6c97.js.map": "/HomeroBeltranUTRGV.github.io/static/js/main.874b6c97.js.map",
+    "main.98b20eaa.js.map": "/HomeroBeltranUTRGV.github.io/static/js/main.98b20eaa.js.map",
     "592.7f72a991.chunk.js.map": "/HomeroBeltranUTRGV.github.io/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.874b6c97.js"
+    "static/js/main.98b20eaa.js"
   ]
 }
